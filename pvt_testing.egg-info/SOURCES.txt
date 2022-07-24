@@ -1,0 +1,7 @@
+setup.py
+folder1/__init__.py
+folder1/python_file.py
+pvt_testing.egg-info/PKG-INFO
+pvt_testing.egg-info/SOURCES.txt
+pvt_testing.egg-info/dependency_links.txt
+pvt_testing.egg-info/top_level.txt
